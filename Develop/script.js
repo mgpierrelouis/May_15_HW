@@ -13,7 +13,7 @@ var LOWER    = 0;
 var UPPER    = 1;
 var NUMBER  = 2;
 var SYMBOL  = 3;
-var charTypenames = ["\nlowercase letters", "\nuppercase letters", "\nnumbers", "\nsymbol" ];
+var charTypenames = ["\nLowercase Letters", "\nUppercase Letters", "\nNumbers", "\nSpecial Characters" ];
 
 // Write password to the #password input
 function writePassword() {
